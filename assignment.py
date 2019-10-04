@@ -1,10 +1,9 @@
-var1 "aamir"
 
-var2 = 20
+var2 = 200
 
-var3 = 20
+var3 = 100
 
 
-vartotal = var2+var3
+vartotal = var2*var3
 
 print(vartotal)
